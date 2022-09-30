@@ -1,6 +1,6 @@
 # KNIME
 A collection of small Data Science assignments using KNIME
-Example workflow:
+## An Example KNIME workflow:
 ![image](https://user-images.githubusercontent.com/47490495/193177314-8c14f55e-96ce-435e-a2a2-99c4756a5827.png)
 
 - Ex1: Statistics node
